@@ -1,6 +1,6 @@
 {
   "name": "react-client",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "private": true,
   "dependencies": {
     "autoprefixer": "^7.1.2",
@@ -29,8 +29,6 @@
     "html-webpack-plugin": "^2.29.0",
     "jest": "^22.4.3",
     "mobx": "^4.2.1",
-    "mobx-little-router": "^1.8.0",
-    "mobx-little-router-react": "^1.8.0",
     "mobx-react": "^5.1.2",
     "object-assign": "^4.1.1",
     "postcss-flexbugs-fixes": "^3.2.0",
@@ -47,7 +45,9 @@
     "webpack": "^3.5.1",
     "webpack-dev-server": "^2.7.1",
     "webpack-manifest-plugin": "^1.2.1",
-    "whatwg-fetch": "^2.0.3"
+    "whatwg-fetch": "^2.0.3",
+    "yamee-router": "^2.0.0",
+    "yamee-router-react": "^2.0.0"
   },
   "scripts": {
     "start": "node scripts/start.js",
